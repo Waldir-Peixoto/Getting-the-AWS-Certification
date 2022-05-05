@@ -1,0 +1,25 @@
+O que é inteligencia artificial?
+
+IA - comportamento inteligente das maquinas
+Imitação de habilidades cognitivas dos seres humanos. 
+A IA se baseia em Engenharia do Conhecimento. 
+Ela deve resolver o problema como um ser humano resolveria. 
+O objetivo é transferir conhecimentos humanos para a maquina. 
+Esse processo de alimentação de conhecimentos na maquina é chamado de modelagem. 
+Machine learning =- nos dizemos a maquina a diferenca entre dois modelos (quadrados e circulos)
+Deep Learning - Nos jogamos varios dados, e o proprio software comeca a examinar os dados e fazer inferencias dos objetos. 
+Artificial Inteligence
+
+Machine Learning
+Categorization of documents
+Supervised Learning - deve-se dizer à maquina alguns exemplos, ensinando exemplos de inputs e outputs
+Unsupervised
+Smart Applications
+Reinforcement
+
+Backpropagation algorithm
+
+Artificial neural networks (ANN)
+O que é uma rede neural?
+É um conjunto de simples funções matemáticas que podem ser treinadas para coleticamente aprender funções complexas.
+Input layers
